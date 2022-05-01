@@ -1,0 +1,16 @@
+{
+    "scripts": {
+        "build": "tailwind -i input.css -o ./css/main.css",
+        "watch": "tailwind -i input.css -o ./css/main.css --watch"
+    },
+    "name": "tailwind_admin_manage",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {
+        "tailwindcss": "^3.0.24"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
